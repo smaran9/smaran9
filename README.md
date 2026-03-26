@@ -22,10 +22,25 @@
 
 ## 🚀 Tech Stack
 
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,flask,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
 </p>
 
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,mysql" />
+</p>
+
+### 🛠 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 ---
 
 ## 📊 GitHub Power Stats
