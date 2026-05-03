@@ -1,90 +1,140 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A0E,50:0a1628,100:050A0E&height=200&section=header&text=SMARAN&fontSize=90&fontColor=00FFB2&fontAlignY=55&animation=fadeIn&desc=Backend%20Developer%20%7C%20System%20Builder%20%7C%20Future%20Engineer&descSize=18&descAlignY=78&descColor=4A9E8A" width="100%"/>
+<!-- ============================================================
+     SMARAN BHATT — GitHub Profile README
+     Designed with intention. Built with discipline.
+     ============================================================ -->
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=1200&color=00FFB2&center=true&vCenter=true&width=700&lines=%24+initializing+smaran.exe...+%E2%9C%94;%24+loading+backend+superpowers...+%E2%9C%94;%24+python+--version+%3A%3A+3.x+%E2%9C%94;%24+flask+run+--mode+production+%E2%9C%94;%24+git+push+origin+main+%E2%9C%94;%24+status%3A+grinding+daily+%F0%9F%94%A5)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,30:0a0a0a,70:0d1117,100:000000&height=160&section=header&text=SMARAN%20BHATT&fontSize=52&fontColor=E6FF00&fontAlignY=55&animation=blinking&desc=Backend%20Engineer%20in%20the%20Making%20%E2%80%94%20India&descSize=14&descColor=555555&descAlignY=78&stroke=E6FF00&strokeWidth=1" width="100%" />
+</div>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=smaran9&label=👁️+PROFILE+VIEWS&color=00FFB2&style=flat-square&labelColor=0C1318" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/smaran9?label=⚡+FOLLOWERS&style=flat-square&color=00FFB2&labelColor=0C1318" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/STATUS-GRINDING%20DAILY-00FFB2?style=flat-square&labelColor=0C1318" />
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=3000&pause=800&color=E6FF00&background=00000000&center=true&vCenter=true&multiline=false&width=680&lines=%E2%96%B6+whoami+%3A%3A+backend+dev+%7C+system+thinker+%7C+python+craftsman;%E2%96%B6+currently+%3A%3A+building+voice+assistant+%2B+learning+data+science;%E2%96%B6+target+%3A%3A+GATE+%E2%80%94+no+shortcuts%2C+only+systems;%E2%96%B6+mode+%3A%3A+discipline+over+motivation.+always.;%E2%96%B6+uptime+%3A%3A+365+days+%2F+year.+no+exceptions.)](https://git.io/typing-svg)
 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BACKEND-DEVELOPER-E6FF00?style=flat-square&labelColor=000000&color=E6FF00" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-EXPLORER-E6FF00?style=flat-square&labelColor=000000&color=E6FF00" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GATE-ASPIRANT-E6FF00?style=flat-square&labelColor=000000&color=E6FF00" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=smaran9&style=flat-square&color=E6FF00&labelColor=000000&label=VISITORS" />
+</div>
+
+---
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│    ░██████╗███╗░░░███╗░█████╗░██████╗░░█████╗░███╗░░██╗                   │
+│    ██╔════╝████╗░████║██╔══██╗██╔══██╗██╔══██╗████╗░██║                   │
+│    ╚█████╗░██╔████╔██║███████║██████╔╝███████║██╔██╗██║                   │
+│    ░╚═══██╗██║╚██╔╝██║██╔══██║██╔══██╗██╔══██║██║╚████║                   │
+│    ██████╔╝██║░╚═╝░██║██║░░██║██║░░██║██║░░██║██║░╚███║                   │
+│    ╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝                  │
+│                                                                             │
+│    ██████╗ ██╗  ██╗ █████╗ ████████╗████████╗                             │
+│    ██╔══██╗██║  ██║██╔══██╗╚══██╔══╝╚══██╔══╝                             │
+│    ██████╔╝███████║███████║   ██║      ██║                                 │
+│    ██╔══██╗██╔══██║██╔══██║   ██║      ██║                                 │
+│    ██████╔╝██║  ██║██║  ██║   ██║      ██║                                 │
+│    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝      ╚═╝                                 │
+│                                                                             │
+│    [ India → World ]  [ Python → Systems ]  [ Grind → GATE ]              │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-## 🧠 `whoami`
+<td width="55%" valign="top">
 
 ```python
-#!/usr/bin/env python3
+# smaran_bhatt.py  ·  v2025.discipline
 
-class Smaran:
+from __future__ import annotations
+import math
+
+class SmaranBhatt:
     """
-    Backend Developer | Data Scientist
-    Discipline-driven. System-focused.
+    Backend developer. System builder.
+    Runs on discipline, not motivation.
     """
 
-    def __init__(self):
-        self.name       = "Smaran"
-        self.role       = "Backend Developer 🚀"
-        self.location   = "India 🇮🇳"
-        self.goal       = "GATE + Top Tech Career 🎯"
+    NAME      = "Smaran Bhatt"
+    ROLE      = "Backend Developer 🏗️"
+    LOCATION  = "India 🇮🇳"
+    GOAL      = "GATE → Top Tech Career"
 
-        self.stack = {
-            "languages" : ["Python 🐍","C++","C","JS","TS"],
-            "backend"   : ["Flask", "MySQL", "REST API"],
-            "tools"     : ["Git", "GitHub", "VSCode"],
-            "learning"  : ["Data Science", "ML", "DSA"],
-        }
+    STACK = {
+        "primary"  : ["Python", "Flask", "MySQL"],
+        "systems"  : ["C", "C++"],
+        "web"      : ["HTML", "CSS", "JS", "TS"],
+        "tools"    : ["Git", "GitHub", "VSCode"],
+        "learning" : ["Data Science","ML","DSA"],
+    }
 
-        self.currently_building = [
-            "🤖 Voice Assistant (Python)",
-            "📊 Data Science Projects",
-        ]
+    BUILDING = [
+        "🤖  Voice Assistant (Python + NLP)",
+        "📊  Data Science Project Suite",
+        "🌐  Backend APIs (Flask + MySQL)",
+    ]
 
-        self.mindset = {
-            "excuses"    : 0,
-            "growth"     : float('inf'),
-            "discipline" : "LOCKED IN 🔒",
-            "consistency": "EVERYDAY ⚡",
-        }
+    MINDSET = {
+        "excuses"     : 0,
+        "consistency" : math.inf,
+        "mode"        : "LOCKED IN 🔐",
+        "rest_days"   : 0,
+        "output"      : "MAXIMUM",
+    }
 
-    def motto(self) -> str:
-        return "🔥 No excuses. Only growth."
+    def __repr__(self) -> str:
+        return "No excuses. Only growth. 🔥"
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-## 📡 Current Mission
+```
+╔═══════════════════════════════════╗
+║  ▸ SMARAN OS — BUILD 2025.01     ║
+╠═══════════════════════════════════╣
+║                                   ║
+║  CORE MISSION                     ║
+║  ──────────────────────────────   ║
+║  ► Crack GATE                     ║
+║  ► Build Voice Assistant v1       ║
+║  ► Master Data Science            ║
+║  ► Ship real projects             ║
+║                                   ║
+║  DAILY METRICS                    ║
+║  ──────────────────────────────   ║
+║  Code     ████████████████  ON    ║
+║  Study    ████████████████  ON    ║
+║  Grind    ████████████████  ON    ║
+║  Excuses  ░░░░░░░░░░░░░░░░  OFF   ║
+║                                   ║
+║  STREAK    → ACTIVE 🟢            ║
+║  COMMITS   → DAILY  ✅            ║
+║  SLEEP     → 6hrs   😤            ║
+║  CAFFEINE  → MAX    ☕            ║
+║                                   ║
+╚═══════════════════════════════════╝
+```
 
 <br>
 
-```
-╔══════════════════════════════════════╗
-║         SMARAN OS  v1.0              ║
-╠══════════════════════════════════════╣
-║  🎯  TARGET : GATE EXAM              ║
-║  🏗️  BUILD  : Voice Assistant        ║
-║  📚  STUDY  : Data Science + DSA     ║
-║  ⚙️  MODE   : Backend Dev            ║
-║  📅  STREAK : Grinding Daily         ║
-╠══════════════════════════════════════╣
-║  SYSTEM STATUS                       ║
-║  ████████████████████  99% 🔥        ║
-║                                      ║
-║  > No days off.                      ║
-║  > No excuses.                       ║
-║  > Only commits.                     ║
-╚══════════════════════════════════════╝
-```
+<div align="center">
+<img src="https://img.shields.io/badge/DISCIPLINE_LEVEL-OVER_9000-E6FF00?style=for-the-badge&labelColor=000000" />
+</div>
 
 </td>
 </tr>
@@ -92,66 +142,109 @@ class Smaran:
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Arsenal
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-050A0E?style=for-the-badge&logo=python&logoColor=00FFB2)
-![C++](https://img.shields.io/badge/C++-050A0E?style=for-the-badge&logo=cplusplus&logoColor=00FFB2)
-![C](https://img.shields.io/badge/C-050A0E?style=for-the-badge&logo=c&logoColor=00FFB2)
-![JavaScript](https://img.shields.io/badge/JavaScript-050A0E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-050A0E?style=for-the-badge&logo=typescript&logoColor=3178C6)
+<table>
+<tr>
+<td align="center" width="20%">
 
-### ⚙️ Backend & DB
-![Flask](https://img.shields.io/badge/Flask-050A0E?style=for-the-badge&logo=flask&logoColor=00FFB2)
-![MySQL](https://img.shields.io/badge/MySQL-050A0E?style=for-the-badge&logo=mysql&logoColor=00FFB2)
-![REST API](https://img.shields.io/badge/REST_API-050A0E?style=for-the-badge&logo=fastapi&logoColor=00FFB2)
+**LANGUAGES**
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-050A0E?style=for-the-badge&logo=html5&logoColor=FF6B35)
-![CSS3](https://img.shields.io/badge/CSS3-050A0E?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![C](https://skillicons.dev/icons?i=c&theme=dark)
+![JS](https://skillicons.dev/icons?i=js&theme=dark)
+![TS](https://skillicons.dev/icons?i=ts&theme=dark)
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-050A0E?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-050A0E?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-050A0E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-050A0E?style=for-the-badge&logo=linux&logoColor=FCC624)
+</td>
+<td align="center" width="20%">
 
-### 📊 Data Science (Learning)
-![NumPy](https://img.shields.io/badge/NumPy-050A0E?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-050A0E?style=for-the-badge&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-050A0E?style=for-the-badge&logo=plotly&logoColor=00FFB2)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-050A0E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+**BACKEND**
+
+![Flask](https://skillicons.dev/icons?i=flask&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+
+</td>
+<td align="center" width="20%">
+
+**FRONTEND**
+
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+
+</td>
+<td align="center" width="20%">
+
+**TOOLS**
+
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+
+</td>
+<td align="center" width="20%">
+
+**LEARNING**
+
+![Python](https://skillicons.dev/icons?i=pytorch&theme=dark)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-| 🔢 | Project | What it does | Tech | Status |
-|---|---------|-------------|------|--------|
-| 01 | 🔊 **Voice Assistant** | Python-powered AI voice assistant with NLP, speech-to-text & command engine | `Python` `SpeechRecognition` `NLP` `pyttsx3` | 🟡 Building |
-| 02 | 🌐 **Softline Infotech** | Full production company website — designed, coded, deployed solo | `HTML` `CSS` `Flask` `MySQL` | 🟢 Live |
-| 03 | 📊 **Data Science Suite** | EDA notebooks, ML models, visualization pipelines | `Python` `Pandas` `Sklearn` `Matplotlib` | 🔵 Soon |
-
----
-
-## 📊 GitHub Power Stats
+## 🚀 Projects — Shipped & In Progress
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=smaran9&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=050A0E&title_color=00FFB2&icon_color=00FFB2&text_color=4A9E8A" />
-<img width="49%" src="https://streak-stats.demolab.com?user=smaran9&theme=chartreuse-dark&hide_border=true&background=050A0E&ring=00FFB2&fire=FF6B35&currStreakLabel=00FFB2&sideLabels=4A9E8A&dates=4A9E8A" />
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│  #01  🔊  VOICE ASSISTANT                                   [IN PROGRESS]  │
+│       ─────────────────────────────────────────────────────────────────    │
+│       Python-powered AI assistant. Speech recognition, NLP pipeline,      │
+│       command engine, and TTS output. Built from scratch.                  │
+│       STACK → Python · SpeechRecognition · pyttsx3 · NLP                  │
+├────────────────────────────────────────────────────────────────────────────┤
+│  #02  🌐  SOFTLINE INFOTECH WEBSITE                              [LIVE ✅]  │
+│       ─────────────────────────────────────────────────────────────────    │
+│       Full company website. Solo — design, frontend, backend, deploy.      │
+│       STACK → HTML · CSS · Flask · MySQL                                   │
+├────────────────────────────────────────────────────────────────────────────┤
+│  #03  📊  DATA SCIENCE PROJECT SUITE                         [COMING SOON]  │
+│       ─────────────────────────────────────────────────────────────────    │
+│       EDA notebooks, ML models, visualization dashboards. Real datasets.   │
+│       STACK → Python · Pandas · Sklearn · Matplotlib · Seaborn             │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
-<br><br>
+</div>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaran9&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=050A0E&title_color=00FFB2&text_color=4A9E8A" />
+---
 
-<br><br>
+## 📊 GitHub Stats — Raw Numbers
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=smaran9&theme=react-dark&hide_border=true&bg_color=050A0E&color=00FFB2&line=00FFB2&point=FF6B35&area=true&area_color=00FFB2" />
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smaran9&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=E6FF00&icon_color=E6FF00&text_color=888888&ring_color=E6FF00" />
+<img height="180em" src="https://streak-stats.demolab.com?user=smaran9&hide_border=true&background=0d1117&ring=E6FF00&fire=E6FF00&currStreakLabel=E6FF00&sideLabels=555555&dates=555555&currStreakNum=E6FF00&sideNums=888888" />
+
+</div>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=smaran9&theme=high-contrast&hide_border=true&bg_color=0d1117&color=E6FF00&line=E6FF00&point=ffffff&area=true&area_color=E6FF00" />
+
+</div>
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaran9&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=E6FF00&text_color=888888&langs_count=6" />
 
 </div>
 
@@ -161,80 +254,61 @@ class Smaran:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=smaran9&theme=matrix&no-frame=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=smaran9&theme=darkhub&no-frame=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🎯 Roadmap 2025
+## 🎯 The Roadmap
 
 <div align="center">
 
 ```
-PHASE 1 — FOUNDATION          PHASE 2 — LEVEL UP           PHASE 3 — DOMINATE
-━━━━━━━━━━━━━━━━━━━━━━        ━━━━━━━━━━━━━━━━━━━━━         ━━━━━━━━━━━━━━━━━━━━━━
-[x] Start the grind           [ ] Master DSA                [ ] Crack GATE
-[x] Learn Flask + MySQL       [ ] Django / FastAPI          [ ] Land top tech role
-[x] Build first projects      [ ] ML & Deep Learning        [ ] Open source contrib
-[ ] Ship Voice Assistant v1   [ ] Deploy on Cloud           [ ] 500+ GitHub stars
-[ ] Complete DS roadmap       [ ] Build SaaS project        [ ] Build in public
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+   PHASE 01 — FOUNDATION          PHASE 02 — BUILD            PHASE 03 — WIN
+   ─────────────────────          ────────────────            ───────────────
+
+   [✅] Start grinding            [ ] Master DSA              [ ] Crack GATE
+   [✅] Flask + MySQL             [ ] Django / FastAPI         [ ] Land dream role
+   [✅] Ship real projects        [ ] Cloud deploy            [ ] 1000+ GitHub ⭐
+   [ ] Voice Assistant v1.0       [ ] ML pipelines            [ ] Open source hero
+   [ ] Data Science roadmap       [ ] SaaS project            [ ] Build in public
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" align="center">
+## 🌐 Find Me
 
-## 💬 Dev Philosophy
+<div align="center">
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-smaran9-E6FF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)](https://github.com/smaran9)
 
-> *"Discipline creates power.*
-> *Consistency creates results."*
+*Open to collaborations · Open source · Backend projects · Anyone who ships real work*
 
-<br>
-
-```python
-while alive:
-    eat()
-    sleep()
-    code()
-    repeat()
-    # no days off
-```
-
-</td>
-<td width="50%" align="center">
-
-## 📬 Connect
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-smaran9-050A0E?style=for-the-badge&logo=github&logoColor=00FFB2&labelColor=0C1318)](https://github.com/smaran9)
-
-<br>
-
-*Open to collabs, open source,*
-*and anyone who actually ships.*
-
-<br>
-
-**⚡ Fork something & let's build.**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-**🔥 No Excuses. Only Growth.**
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    " Discipline creates power. Consistency creates results. "    ║
+║                                                                  ║
+║                          — Smaran Bhatt                         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0E,100:00FFB2&height=100&section=footer&text=Keep+Grinding+%F0%9F%94%A5&fontSize=20&fontColor=050A0E&fontAlignY=65&animation=fadeIn" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:E6FF00&height=100&section=footer&text=No+Excuses.+Only+Growth.+%F0%9F%94%A5&fontSize=16&fontColor=000000&fontAlignY=70&animation=fadeIn" width="100%" />
 
 </div>
