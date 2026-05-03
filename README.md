@@ -1,6 +1,6 @@
 <!-- ============================================================
      SMARAN BHATT — GitHub Profile README
-     Designed with intention. Built with discipline.
+     Designed with intention. Built with discipline.5
      ============================================================ -->
 
 <div align="center">
