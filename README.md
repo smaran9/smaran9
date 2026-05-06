@@ -273,7 +273,7 @@ class SmaranBhatt:
    [✅] Start grinding            [ ] Master DSA              [ ] Crack GATE
    [✅] Flask + MySQL             [ ] Django / FastAPI         [ ] Land dream role
    [✅] Ship real projects        [ ] Cloud deploy            [ ] 1000+ GitHub ⭐
-   [ ] Voice Assistant v1.0       [ ] ML pipelines            [ ] Open source hero
+   [✅] Voice Assistant v1.0       [ ] ML pipelines            [ ] Open source hero
    [ ] Data Science roadmap       [ ] SaaS project            [ ] Build in public
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
