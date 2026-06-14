@@ -236,7 +236,7 @@ class SmaranBhatt:
   </picture>
 </div>
 
-> ⚠️ **Snake setup karo:** Repo mein `.github/workflows/snake.yml` file banao — instructions neeche hain.
+
 
 ---
 
